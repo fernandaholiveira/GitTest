@@ -1,9 +1,2 @@
 # GitTest
-#Adding Basic Python Script  
-# Expected grade
-grade = 70
-# Check the is more than 70 or not
-if (grade >= 70):
-    print("You have passed")
-else:
-    print("You have not passed")
+
